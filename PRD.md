@@ -3,7 +3,7 @@
 
 **Projeto A3 — Sistemas de Controle e Inteligência Artificial**  
 **Metodologia:** Software-in-the-Loop (SITL) — Simulação Computacional  
-**Status:** `Concluído`
+**Status:** `fase de testes`
 
 ---
 

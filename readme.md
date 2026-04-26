@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.14+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Plotly-6.7.0-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lógica-Fuzzy-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Concluído-22C55E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Fase de testes-22C55E?style=for-the-badge"/>
 </p>
 
 > Controlador inteligente de energia residencial baseado em **Lógica Fuzzy (Mamdani)** com simulação de 24 horas em malha fechada e dashboard interativo gerado em HTML.
